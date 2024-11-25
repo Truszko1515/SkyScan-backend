@@ -1,0 +1,6 @@
+@TideSoftware_Task.Server_HostAddress = http://localhost:5015
+
+GET {{TideSoftware_Task.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
