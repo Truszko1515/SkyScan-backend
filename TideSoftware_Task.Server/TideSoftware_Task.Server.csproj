@@ -22,9 +22,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Business-Logic-Layer\Business-Logic-Layer.csproj" />
-    <ProjectReference Include="..\tidesoftware_task.client\tidesoftware_task.client.esproj">
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
   </ItemGroup>
 
 </Project>
